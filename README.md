@@ -11,9 +11,9 @@ $ npm install --save pinggo
 ```js
 import pinggo from 'pinggo'
 
-const puts = (error, stdout, stderr) => console.log(`Your avarage ping is ${stdout}ms`)
+const puts = (error, stdout, stderr) => console.log(`Your average ping is ${stdout}ms`)
 pinggo('192.69.96.1', puts)
-// => Your avarage ping is 20.080ms
+// => Your average ping is 20.080ms
 ```
 
 ## API
