@@ -21,7 +21,7 @@ pinggo('192.69.96.1', puts)
 
 #### ip
 Type: `string`<br/>
-Default: `localhost`
+Default: `localhost`<br/>
 Optional
 
 #### cb
