@@ -27,5 +27,9 @@ Optional
 #### cb
 Type: `function`<br/>
 
+## Related
+
+- [pinggo-cli](https://github.com/bukinoshita/pinggo-cli) — :signal_strength: Check your ping before match making, don't play with lag
+
 ## License
 [MIT](https://github.com/bukinoshita/pinggo/blob/master/LICENSE) &copy; Bu Kinoshita
