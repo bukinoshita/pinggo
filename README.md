@@ -1,4 +1,4 @@
-# pinggo
+# pinggo [![Build Status](https://travis-ci.org/bukinoshita/pinggo.svg?branch=master)](https://travis-ci.org/bukinoshita/pinggo)
 
 > Ping average round trip times in milli-seconds
 
