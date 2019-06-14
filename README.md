@@ -3,33 +3,35 @@
 > Ping average round trip times in milli-seconds
 
 ## Install
+
 ```
-$ npm install --save pinggo
+$ yarn add pinggo
 ```
 
 ## Usage
-```js
-import pinggo from 'pinggo'
 
-const puts = (error, stdout, stderr) => console.log(`Your average ping is ${stdout}ms`)
-pinggo('192.69.96.1', puts)
+```js
+const pinggo = require('pingoo')
+
+const ping = await pinggo('192.69.96.1')
+console.log(`Your average ping is ${ping}`)
 // => Your average ping is 20.080ms
 ```
 
 ## API
-### pinggo(ip, cb)
+
+### pinggo(ip)
 
 #### ip
+
 Type: `string`<br/>
 Default: `localhost`<br/>
 Optional
-
-#### cb
-Type: `function`<br/>
 
 ## Related
 
 - [pinggo-cli](https://github.com/bukinoshita/pinggo-cli) — :signal_strength: Check your ping before match making, don't play with lag
 
 ## License
-[MIT](https://github.com/bukinoshita/pinggo/blob/master/LICENSE) &copy; Bu Kinoshita
+
+MIT © [Bu Kinoshita](https://bukinoshita.io)
