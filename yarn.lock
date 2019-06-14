@@ -535,7 +535,7 @@ atob@^2.1.1:
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
-ava@^2.1.0:
+ava@2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/ava/-/ava-2.1.0.tgz#158c5cdf48d1556caf0a9fdf96b61af9e566c153"
   integrity sha512-IaS+l1KfYtFpJlDZXrNG0M6SGr/DUvwJmTiaTaW2lMdEezCAJc5J/hNAQWIKigkmxIOURYT29atD/qyp+zq+wg==
