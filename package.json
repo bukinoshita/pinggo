@@ -1,7 +1,7 @@
 {
   "name": "pinggo",
   "description": "Ping average round trip times in milli-seconds",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "index.js",
   "repository": "bukinoshita/pinggo",
   "author": "Bu Kinoshita <bukinoshita@gmail.com>",
